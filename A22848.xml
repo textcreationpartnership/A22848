@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The order for svvannes both by the statutes, and by the auncient orders and customes vsed within the realme of England.</title>
+            <title>Laws, etc. Swans</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22848</idno>
+            <idno type="STC">STC 9343</idno>
+            <idno type="STC">ESTC S105506</idno>
+            <idno type="EEBO-CITATION">99841234</idno>
+            <idno type="PROQUEST">99841234</idno>
+            <idno type="VID">5798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 133:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The order for svvannes both by the statutes, and by the auncient orders and customes vsed within the realme of England.</title>
+                  <title>Laws, etc. Swans</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>not before 1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title, A2r.</note>
+                  <note>Contains 30 articles.</note>
+                  <note>At end: God saue the King.</note>
+                  <note>This edition has an initial F with double rule outline and a grotesque head.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Swans --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:5798:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of swan</figDesc>
+                  <p>The Kings Marke.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:5798:1" rendition="simple:additions"/>
+            <head>The order for Swannes both by the Statutes, and by the auncient Orders and Cuſtomes vſed within the Realme of England.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>IRST,</hi> Yee ſhall enquire, if there be any perſon, that doth poſſeſſe any Swanne, and hath not compounded with the Kinges Maieſtie for his Marke (that is to ſay) Sixe ſhillinges eight pence, for his Marke, du<g ref="char:EOLhyphen"/>ring his life: If you know any ſuch, you ſhall preſent them, that all ſuch Swannes and Cignets, may be ſeazed for the King.</p>
+            <p n="2">
+               <hi>2</hi> Alſo, you ſhall enquire, if any perſon doth poſſeſſe any Swanne, or Ciguet, that may not diſpend the cleare yearely value of fiue Markes of Free-hold, except Heire apparant to the Crowne: then you ſhall preſent him. <hi>22. Edward. 4.</hi>
+            </p>
+            <p n="3">
+               <hi>3</hi> Alſo: If any perſon or perſons, doe driue away any Swanne, or Swannes, breeding, or prouiding to breede; bee it vpon his owne <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>round, or any other mans ground: hee, or they, ſo offending, ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffer one yeares impriſonment, and fine at the Kinges pleaſure, Thir<g ref="char:EOLhyphen"/>ſteene ſhillinges foure pence, <hi>11. Henry. 7.</hi>
+            </p>
+            <p n="4">
+               <hi>4</hi> If there be found any Weares vpon the Riuers, not hauing any Grates before them; It is lawfull for euery Owner, Swan-maiſters, or Swan-herdes, to pull vp, or cut downe the Birth-net, or Gyune of the ſayd Weare, or Weares.</p>
+            <pb n="2" facs="tcp:5798:2"/>
+            <p n="5">
+               <hi>5</hi> If any perſon, or perſons, be found carrying any Swan-hooke, and the ſame perſon beeing noe Swan-herd, nor accompanied with two Swan-herdes: euery ſuch perſon ſhall pay to the King, Thir<g ref="char:EOLhyphen"/>teene ſhillinges foure pence, (that is to ſay) Three ſhillinges foure pence to him that will informe; and the reſt to the King.</p>
+            <p n="6">
+               <hi>6</hi> The auncient Cuſtome of this Realme hath and doth allow to euery Owner of ſuch Ground where any ſuch Swanne ſhall heirie, to take one Land-bird; and for the ſame, the Kinges Maieſtie muſt haue of him that hath the Land-bird, Twelue pence, Bee it vpon his owne Ground, or any other.</p>
+            <p n="7">
+               <hi>7</hi> It is ordayned, that if any perſon, or perſons, doe conuey away, or ſteale away the Egge, or Egges, of any Swannes, and the ſame be<g ref="char:EOLhyphen"/>ing duely prooued by two ſufficient witneſſes, that then euery ſuch of<g ref="char:EOLhyphen"/>fendor ſhall pay to the King xiij. s. iiij. d. for euery Egge ſo taken out of the Neſt of any Swanne.</p>
+            <p n="8">
+               <hi>8</hi> It is ordayned, that euery Owner that hath any Swannes, ſhall pay euery yeare yearely for euery Swan-marke, Foure pence to the Maiſter of the Game for his Fee, and his Dinner &amp; Supper free on the Upping dayes: And if the ſaid Maiſter of the Game fayle of the Foure pence, then he ſhall diſtraine the Game of euery ſuch Owner, that ſo doth fayle of payment.</p>
+            <p n="9">
+               <hi>9</hi> If there be any perſon, or perſons, that hath Swannes, that doe heirie vpon any of their ſeuerall Waters, and after come to the common Riuer, they ſhall pay a Land-bird to the King, and be obedient to all Swanne Lawes: for diuers ſuch perſons do vſe colluſion, to defraude the King of his right.</p>
+            <p n="10">
+               <hi>10</hi> It is ordayned, that euery perſon, hauing any Swannes, ſhall beginne yearely to marke, <hi>vpon the firſt of Auguſt,</hi> and no perſon be<g ref="char:EOLhyphen"/>fore; but after, as conueniently may be, ſo that the Maiſter of the Kings Gaine, or his Deputie, be preſent. And if any take vpon him, or them, to marke any Swanne or Cignet, in other maner, to forfeite to the Kinges Maieſtie for euery Swanne ſo marked, Fourtie ſhillinges.</p>
+            <p n="11">
+               <hi>11</hi> It is ordained, that no perſon, or perſons, being Owners, or De<g ref="char:EOLhyphen"/>puties, or Seruantes to them, or other, ſhall goe on marking without the Maiſter of the Game, or his Deputie be preſent, with other Swan<g ref="char:EOLhyphen"/>herdes next adioyning, vpon pains to forfeite to the Kinges Maieſtie, Fourtie ſhillinges.</p>
+            <pb n="3" facs="tcp:5798:2"/>
+            <p n="12">
+               <hi>12</hi> It is ordayned, that no perſon ſhall hunt any Duckes, or any other Chaſe in the Water, or neere the haunt of Swannes in Fence<g ref="char:EOLhyphen"/>time, with any Dogge or Spannyles: <hi>viz. <hi>from the Feaſt of Eaſter to Lammas:</hi>
+               </hi> vpon paine for euery time ſo found in hunting, to forfeite Sire ſhillinges eight pence.</p>
+            <p n="13">
+               <hi>13</hi> It is ordayned, that it any perſon doth ſet any Snares, or any maner of Nettes, Lime, or Engines, to take Bittorns or Swans, <hi>from the Feaſt of Eaſter, to the Sunday after Lammas day;</hi> Hee or they to forfeite to the Kinges Maieſtie for euery time ſo ſetting, Sire ſhillinges eight pence.</p>
+            <p n="14">
+               <hi>14</hi> It is ordayned, that no perſon take vp any Cignet vnmarked, or make any ſale of them, but that the Kinges Swan-herd, or his De<g ref="char:EOLhyphen"/>putie be preſent, with other Swan-herdes next adioyning, or haue knowledge of the ſame: vpon paine to forfeite to the Kinges Maieſtie Fourtie ſhillinges.</p>
+            <p n="15">
+               <hi>15</hi> It is ordayned, that the Swan-herdes of the Duchie of <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi> ſhall vppe no Swanne, or make any ſale of them, without the Maiſter of the Swannes or his Deputie be preſent: vpon paine to for<g ref="char:EOLhyphen"/>feite to the Kings Maieſtie Fourtie ſhillinges.</p>
+            <p n="16">
+               <hi>16</hi> And in like maner, the Kinges Swan-herd ſhall not enter into the Libertie of the Duchie, without the Duchies Swan-herd be there preſent: vpon the like paine, to forfeite Fourtie ſhillinges.</p>
+            <p n="17">
+               <hi>17</hi> It is ordayned, That if any Swannes, or Cignets, be found double marked, they ſhall be ſeazed to the Kinges vſe, till it be prooued to whom the ſame Swannes, or Cignets doe belong: And if it cannot be prooued to whom they doe belong, that then they be ſeazed for the King, and his Grace to be anſwered to the value of them.</p>
+            <p n="18">
+               <hi>18</hi> It is ordayned, that no perſon make ſale of any White Swannes, nor make deliuerie of them, without the Maiſter of the Game be preſent, or his Deputie, with other Swan-herdes next ad<g ref="char:EOLhyphen"/>ioyning; vpon paine to forfeite Fourtie ſhillings: whereof, vi. s. viii. d. to him that will informe; and the reſt, to the Kinges Maieſtie.</p>
+            <p n="19">
+               <hi>19</hi> It is ordayned, That no perſon ſhall lay Leaves, ſet any Nettes, or Dragge, within the common Streames or Riuers vpon the day time, from the Feaſt of the <hi>Inuention of the Croſſe,</hi> vnto the Feaſt of <hi>Lammas:</hi> vpon paine ſo oft as they be found ſo offending, to forfeite Twentie ſhillinges.</p>
+            <pb n="4" facs="tcp:5798:3"/>
+            <p n="20">
+               <hi>20</hi> It is ordayned, That if the Maiſter of the Swannes, or his Deputie, doe ſeaze, or take vp any Swannes, as ſtrayes, for the Kinges Maieſtie, that hee ſhall keepe them in a Pitte within <hi>20.</hi> foote of the Kinges Streame, or within <hi>20.</hi> foote of the Common High-way, that the Kinges ſubiectes may haue a ſight of the ſayd Swannes ſo ſeazed, vpon paine of Fourtie ſhillinges.</p>
+            <p n="21">
+               <hi>21</hi> It is ordayned, That if any perſon doe raze out, counterfeite, or alter the Marke of any Swanne, to the hindering or loſſe of any mans Game, and any ſuch offendour duely prooued before the Kinges Maieſties Commiſſioners of Swannes, ſhall ſuffer one yeares Impri<g ref="char:EOLhyphen"/>ſonment, and pay iii. l. vi. s. viii. d. to the King.</p>
+            <p n="22">
+               <hi>22</hi> It is ordayned, That the Commons (that is to ſay) Dinner and Supper, ſhall not exceed aboue xii. d. a mau at the moſt: It there be any Game found where the Dinner or Supper is holden, vpon that Riuer, the Owner being abſent, and none there for him, the Maiſter of the Game is to lay out viii. d. for him, and be is to diſtraine the Game of him that fayleth the payment of it.</p>
+            <p n="23">
+               <hi>23</hi> It is ordayned, That there ſhall be no forfeyture of any White Swanne, or Cignet, but onely to the Kinges Grace, aſwell within the Franchiſe and Liberties, as without. And if any doe deliuer the Swanne, or Cignet ſo ſeazed, to any perſon, but onely to the Maiſter of the Kinges Game, or to his Deputie, to the Kinges vſe; Hee is to forfeite vi. s. viii. d. and the Swannes to be reſtored vnto the Maiſter of the Game.</p>
+            <p n="24">
+               <hi>24</hi> It is ordayned, That no perſon ſhall take any Gray Swannes or Cignets, or White Swannes flying, but that he ſhall within foure dayes next after, deliuer it, or them, to the Maiſter of the Kings Game, and the Taker to haue for his paines viii. d. And if hee fayle, and bring him not, he forfeites xl. s. to the King.</p>
+            <p n="25">
+               <hi>25</hi> It is ordayned, That no perſon, hauing any Game of his owne, ſhall be Swan-herd for himſelfe, nor keeper of any other mans Swannes: vpon paine to forfeite to the Kinges Maieſtie, Fourtie ſhillinges.</p>
+            <p n="26">
+               <hi>26</hi> It is ordayned, That no Swan-herd, Fiſher, or Fowler, ſhall vexe any other Swan-herd, Fiſher, or Fowler, by way of Action, but onely before the Kinges Maieſties Iuſtices of Seſſions of Swannes: vpon paine of forfeyting to the Kinges Grace, Fourtie ſhillinges.</p>
+            <pb n="5" facs="tcp:5798:3"/>
+            <p n="27">
+               <hi>27</hi> The Maiſter of the Kinges Game, ſhall not take away any vn<g ref="char:EOLhyphen"/>marked Swanne coupled with any other mans Swanne, for breaking of the Brood: and when they doe Heirie, the one part of the Cignets to the King, and the other to the Owner of the marked Swanne.</p>
+            <p n="28">
+               <hi>28</hi> Alſo, any man whatſoeuer he be, that killeth any Swanne with Dogge, or Spannyles, ſhall forfeite to the King, Fourtie ſhil<g ref="char:EOLhyphen"/>linges; the Owner of the Dogge to pay it, whether he be there, or no. Alſo, the Maiſter of the Swannes, is to haue for euery White Swanne and Gray vpping, a Pennie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and for euery Cignet, it. d.</p>
+            <p n="29">
+               <hi>29</hi> It is ordayned, That if any Heirie be leyed with one Swanne, the Swanne and the Cignets ſhall be feazed for the King, till due proofe be had whoſe they are, and whoſe was the Swanne, that is a<g ref="char:EOLhyphen"/>way; <hi>Be it Cobbe or Penne.</hi>
+            </p>
+            <p n="30">
+               <hi>30</hi> Laſtly, If there be any other Miſdemeanour, or Offence com<g ref="char:EOLhyphen"/>mitted or done by any Owner of any Game, Swan-herd, or other per<g ref="char:EOLhyphen"/>ſon whatſoeuer, contrary to any Law, auncient Cuſtome, or vſage here<g ref="char:EOLhyphen"/>tofore vſed and allowed, and not before herein particularly mentioned or expreſſed, you ſhall preſent the ſame Offence, that reformation may be had, and the Offendors puniſhed, according to the quantitie and qua<g ref="char:EOLhyphen"/>litie of the ſeuerall Offences.</p>
+            <trailer>FINIS.</trailer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
